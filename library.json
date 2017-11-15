@@ -1,0 +1,17 @@
+{
+    "name": "DHT11",
+    "version": "1.0.0",
+    "keywords": "DHT11, DHT22, DHT21, AM2301, AM2302",
+    "description": "DHT11温湿度传感器库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/DHT11.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
